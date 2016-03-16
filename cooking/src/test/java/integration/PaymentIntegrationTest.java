@@ -1,9 +1,11 @@
 package integration;
 
-
-import arquillian.AbstractTCFTest;
 import fr.unice.polytech.isa.tcf.CustomerFinder;
 import fr.unice.polytech.isa.tcf.CustomerRegistration;
+import fr.unice.polytech.isa.tcf.Payment;
+import arquillian.AbstractTCFTest;/*
+import fr.unice.polytech.isa.tcf.CustomerFinder;
+import fr.unice.polytech.isa.tcf.CustomerRegistration;*/
 import fr.unice.polytech.isa.tcf.Payment;
 import fr.unice.polytech.isa.tcf.entities.Cookies;
 import fr.unice.polytech.isa.tcf.entities.Customer;

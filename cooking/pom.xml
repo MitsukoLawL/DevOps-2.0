@@ -49,9 +49,10 @@
     </repositories>
 
     <dependencies>
-        <dependency>
+  <dependency>
             <groupId>fr.unice.polytech.isa</groupId>
             <artifactId>ordering</artifactId>
+      <version>1.0-SNAPSHOT</version>
         </dependency>
         <!-- Dependencies for the OpenEJB framework -->
         <dependency>
