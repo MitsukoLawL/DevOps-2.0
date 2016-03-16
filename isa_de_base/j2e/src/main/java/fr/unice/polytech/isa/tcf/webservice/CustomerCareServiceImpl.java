@@ -1,5 +1,6 @@
 package fr.unice.polytech.isa.tcf.webservice;
 
+//grupoID.artefactID.package.classe
 
 import fr.unice.polytech.isa.tcf.CatalogueExploration;
 import fr.unice.polytech.isa.tcf.CustomerRegistration;
