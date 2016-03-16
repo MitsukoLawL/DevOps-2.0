@@ -15,6 +15,7 @@
         </sourceRoots>
       </configuration>
     </facet>
+<<<<<<< HEAD
     <facet type="ejb" name="EJB">
       <configuration>
         <descriptors>
@@ -26,6 +27,8 @@
         </ejbRoots>
       </configuration>
     </facet>
+=======
+>>>>>>> 98e96da325f2e2482930ec701d49b25b1c07fa47
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
