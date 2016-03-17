@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6225646f-ed6b-4a83-af67-5fcf626f71b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/ExternalPartnerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/PaymentException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownCustomerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownOrderId.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordering/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ordering/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../webService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../webService/.idea/workspace.xml" />
     </list>
     <ignored path="tcf-backend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -828,12 +821,12 @@
       <created>1458124620945</created>
       <option name="number" value="Default" />
       <updated>1458124620945</updated>
-      <workItem from="1458197868313" duration="551000" />
+      <workItem from="1458197868313" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="551000" />
+    <option name="totallyTimeSpent" value="701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1076" height="690" extended-state="0" />
