@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995c659b-1a7c-421d-87c5-671a8c5dc826" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/artifacts/tcf_backend_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/artifacts/tcf_backend_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__fr_unice_polytech_isa_ordering_1_0_SNAPSHOT.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1_13.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/misc.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/tcf-backend.iml" afterPath="$PROJECT_DIR$/../cooking/tcf-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ordering_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ordering_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ordering.iml" afterPath="$PROJECT_DIR$/ordering.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../webService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../webService/.idea/workspace.xml" />
     </list>
     <ignored path="ordering.iws" />
@@ -319,16 +302,16 @@
       <option name="number" value="Default" />
       <updated>1458125192674</updated>
       <workItem from="1458125196440" duration="122000" />
-      <workItem from="1458197816911" duration="147000" />
+      <workItem from="1458197816911" duration="422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269000" />
+    <option name="totallyTimeSpent" value="544000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="690" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1366" height="690" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
