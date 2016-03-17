@@ -1,13 +1,13 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="ordering:war exploded">
+  <artifact type="exploded-war" name="tcf-backend:war exploded">
     <output-path>$PROJECT_DIR$/target/tcf-backend</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ordering" />
+          <element id="module-output" name="tcf-backend" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: fr.unice.polytech.isa:cooking:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: fr.unice.polytech.isa:ordering:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: org.apache.openejb:openejb-loader:4.7.3" />
           <element id="library" level="project" name="Maven: org.apache.openejb:openejb-jee:4.7.3" />
           <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.7" />
@@ -71,7 +71,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/tcf-backend/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="ordering/web/Web" />
+      <element id="javaee-facet-resources" facet="tcf-backend/web/Web" />
     </root>
   </artifact>
 </component>
