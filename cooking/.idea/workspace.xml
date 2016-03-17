@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6225646f-ed6b-4a83-af67-5fcf626f71b7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Cookies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/OrderStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/ItemVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/utils/Database.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ordering/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ordering/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../webService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../webService/.idea/workspace.xml" />
@@ -501,7 +510,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="23" width="1076" height="690" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
