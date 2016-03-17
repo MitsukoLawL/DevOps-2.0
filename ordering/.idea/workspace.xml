@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995c659b-1a7c-421d-87c5-671a8c5dc826" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Cookies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/entities/OrderStatus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/ItemVerifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/Logger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/utils/Database.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/ExternalPartnerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/PaymentException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownCustomerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../webService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownOrderId.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../webService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../webService/.idea/workspace.xml" />
@@ -91,8 +87,8 @@
       <file leaf-file-name="CartCounter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13157895">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.47368422">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -832,12 +828,12 @@
       <option name="number" value="Default" />
       <updated>1458125192674</updated>
       <workItem from="1458125196440" duration="122000" />
-      <workItem from="1458197816911" duration="806000" />
+      <workItem from="1458197816911" duration="1278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="928000" />
+    <option name="totallyTimeSpent" value="1400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="690" extended-state="0" />
@@ -922,8 +918,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13157895">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.47368422">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
