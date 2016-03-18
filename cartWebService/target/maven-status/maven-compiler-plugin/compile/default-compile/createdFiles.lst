@@ -1,0 +1,9 @@
+fr/unice/polytech/isa/tcf/CustomerFinder.class
+fr/unice/polytech/isa/tcf/webservice/CartWebServiceImpl.class
+fr/unice/polytech/isa/tcf/entities/Cookies.class
+fr/unice/polytech/isa/tcf/entities/Customer.class
+fr/unice/polytech/isa/tcf/CatalogueExploration.class
+fr/unice/polytech/isa/tcf/entities/Item.class
+fr/unice/polytech/isa/tcf/utils/Database.class
+fr/unice/polytech/isa/tcf/exceptions/UnknownCustomerException.class
+fr/unice/polytech/isa/tcf/webservice/CartWebService.class
