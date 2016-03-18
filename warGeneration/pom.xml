@@ -9,6 +9,24 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <versions.tomee.embedded>1.7.3</versions.tomee.embedded>
+    </properties>
+
+        <profiles>
+        <profile>
+            <!-- Use 'mvn -P stable' to activate stable dependencies (by default) -->
+            <id>stable</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <versions.tomee>1.7.3</versions.tomee>
+            </properties>
+        </profile>
+    </profiles>
+
     <dependencies>
 
     <!-- cooking dependence -->
@@ -29,8 +47,37 @@
         <artifactId>webService</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
+
+    <dependency>
+    <groupId>org.apache.openejb</groupId>
+    <artifactId>tomee-embedded</artifactId>
+    <version>${versions.tomee}</version>
+    <scope>test</scope>
+</dependency>
+        <!-- Application server: Tomee -->
+        <dependency>
+            <groupId>org.apache.openejb</groupId>
+            <artifactId>arquillian-tomee-embedded</artifactId>
+            <version>${versions.tomee.embedded}</version>
+            <scope>test</scope>
+        </dependency>
+
+
     </dependencies>
-
-
+<build>
+    <plugins>
+            <plugin>
+                <groupId>org.apache.openejb.maven</groupId>
+                <artifactId>tomee-maven-plugin</artifactId>
+                <version>${versions.tomee.embedded}</version>
+                <configuration>
+                    <!-- From TomEE to TomEE+ to support the web services stack -->
+                    <tomeeClassifier>plus</tomeeClassifier>
+                    <args>-Xmx512m -XX:PermSize=256m</args>
+                    <deployOpenEjbApplication>true</deployOpenEjbApplication>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
