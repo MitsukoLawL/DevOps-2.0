@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d004bc-2d0e-4b32-bff2-38a2638467cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cartCaisher.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/CatalgueCostomer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CatalgueCostomer/pom.xml" afterPath="$PROJECT_DIR$/../CatalgueCostomer/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/components/CatalogueBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CatalgueCostomer/src/main/java/fr/unice/polytech/isa/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CatalgueCostomer/src/test/java/fr/unice/polytech/isa/AppTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CatalgueCostomer/.idea/misc.xml" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CatalgueCostomer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CatalgueCostomer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CatalgueCostomer/CatalgueCostomer.iml" afterPath="$PROJECT_DIR$/../CatalgueCostomer/CatalgueCostomer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../catalgueCostomer/pom.xml" afterPath="$PROJECT_DIR$/../catalgueCostomer/pom.xml" />
     </list>
     <ignored path="CartCaisher.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -569,12 +564,12 @@
       <created>1458572094738</created>
       <option name="number" value="Default" />
       <updated>1458572094738</updated>
-      <workItem from="1458572098536" duration="96000" />
+      <workItem from="1458572098536" duration="691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96000" />
+    <option name="totallyTimeSpent" value="691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />

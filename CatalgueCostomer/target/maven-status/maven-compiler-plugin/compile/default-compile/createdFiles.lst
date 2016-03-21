@@ -1,0 +1,6 @@
+fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.class
+fr/unice/polytech/isa/tcf/CustomerFinder.class
+fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.class
+fr/unice/polytech/isa/tcf/CatalogueExploration.class
+fr/unice/polytech/isa/tcf/components/CatalogueBean.class
+fr/unice/polytech/isa/tcf/CustomerRegistration.class
