@@ -1,1 +1,8 @@
-fr/unice/polytech/isa/App.class
+fr/unice/polytech/isa/tcf/components/carts/CartStatefulBean.class
+fr/unice/polytech/isa/tcf/components/CartBean.class
+fr/unice/polytech/isa/tcf/components/CashierBean.class
+fr/unice/polytech/isa/tcf/components/carts/CartStatelessBean.class
+fr/unice/polytech/isa/tcf/interceptors/CartCounter.class
+fr/unice/polytech/isa/tcf/utils/BankAPI.class
+fr/unice/polytech/isa/tcf/Payment.class
+fr/unice/polytech/isa/tcf/CartModifier.class

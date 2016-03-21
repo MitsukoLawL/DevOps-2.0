@@ -16,8 +16,8 @@
         <module>cartWebService</module>
         <module>client</module>
         <module>warGeneration</module>
-    <module>catalgueCostomer</module>
-    <module>CartCaisher</module>
+        <module>catalgueCostomer</module>
+        <module>cartCaisher</module>
   </modules>
 
     <build>
