@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815686eb-437e-42ad-8a93-83eea4e0b15f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/components/CatalogueBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/fr/unice/polytech/isa/AppTest.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CartCaisher/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CartCaisher/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CatalgueCostomer.iml" afterPath="$PROJECT_DIR$/CatalgueCostomer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCaisher/pom.xml" afterPath="$PROJECT_DIR$/../cartCaisher/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" />
     </list>
     <ignored path="CatalgueCostomer.iws" />
@@ -759,12 +747,12 @@
       <created>1458572077418</created>
       <option name="number" value="Default" />
       <updated>1458572077418</updated>
-      <workItem from="1458572080687" duration="870000" />
+      <workItem from="1458572080687" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="870000" />
+    <option name="totallyTimeSpent" value="1136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
