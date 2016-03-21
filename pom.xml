@@ -11,7 +11,10 @@
     <modules>
         <module>objects</module>
         <module>cooking</module>
-        <module>ordering</module>
+        <!-- <module>ordering</module> 
+            j'ai divisé "ordering" en  "catalgueCostomer" et "cartCaisher"
+            mais j'ai laisser le dossier "ordering" dans le projet quand meme
+        -->
         <module>customerCareWebService</module>
         <module>cartWebService</module>
         <module>client</module>
