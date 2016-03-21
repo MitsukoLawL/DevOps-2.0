@@ -8,7 +8,7 @@
     <version>1.0</version>
   </parent>
   <groupId>fr.unice.polytech.isa</groupId>
-  <artifactId>CartCaisher</artifactId>
+  <artifactId>cartCaisher</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>CartCaisher</name>
   <url>http://maven.apache.org</url>
