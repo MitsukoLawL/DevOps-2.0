@@ -1,3 +1,4 @@
+
 <!--<?xml version="1.0"?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -8,9 +9,9 @@
     <version>1.0</version>
   </parent>
   <groupId>fr.unice.polytech.isa</groupId>
-  <artifactId>catalgueCostomer</artifactId>
+  <artifactId>cartCaisher</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>CatalgueCostomer</name>
+  <name>CartCaisher</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -26,13 +27,12 @@
 </project>
 -->
 
-
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>fr.unice.polytech.isa</groupId>
-  <artifactId>catalgueCostomer</artifactId>
+  <artifactId>cartCashier</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
     <plugins>
@@ -48,7 +48,7 @@
   </build>
   <packaging>jar</packaging>
 
-  <name>catalgueCostomer</name>
+  <name>ISA :: The Cookie Factory :: cartCashier</name>
   <url>http://maven.apache.org</url>
 
   <properties>

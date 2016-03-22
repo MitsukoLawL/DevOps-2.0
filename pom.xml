@@ -15,12 +15,12 @@
             j'ai divisé "ordering" en  "catalgueCostomer" et "cartCaisher"
             mais j'ai laisser le dossier "ordering" dans le projet quand meme
         -->
+        <module>catalogueCustomer</module>
+        <module>cartCashier</module>
         <module>customerCareWebService</module>
         <module>cartWebService</module>
         <module>client</module>
         <module>warGeneration</module>
-        <module>catalgueCostomer</module>
-        <module>cartCaisher</module>
   </modules>
 
     <build>

@@ -1,0 +1,6 @@
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/components/CatalogueBean.java
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.java
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java
+/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/catalogueCustomer/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java
