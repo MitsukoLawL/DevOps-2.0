@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="warGeneration:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tcf-backend.war">
+      <element id="artifact" artifact-name="warGeneration:war exploded" />
+    </root>
+  </artifact>
+</component>

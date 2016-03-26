@@ -94,9 +94,15 @@
             <version>${versions.tomee.embedded}</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
+
+    <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>erebe-vm19-snapshots</name>
+        <url>http://erebe-vm19.i3s.unice.fr/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
  <build>
         <finalName>tcf-backend</finalName>
         <defaultGoal>package</defaultGoal>

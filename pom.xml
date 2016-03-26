@@ -11,7 +11,7 @@
     <modules>
         <module>objects</module>
         <module>cooking</module>
-        <!-- <module>ordering</module> 
+        <!-- <module>ordering</module>
             j'ai divisé "ordering" en  "catalgueCostomer" et "cartCaisher"
             mais j'ai laisser le dossier "ordering" dans le projet quand meme
         -->
@@ -34,7 +34,7 @@
                         <target>1.8</target>
                     </configuration>
                 </plugin>
-                
+
                 <plugin>
 		    <groupId>org.jfrog.buildinfo</groupId>
 		    <artifactId>artifactory-maven-plugin</artifactId>
@@ -74,4 +74,11 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>erebe-vm19-snapshots</name>
+        <url>http://erebe-vm19.i3s.unice.fr/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>

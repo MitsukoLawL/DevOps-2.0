@@ -67,9 +67,15 @@
 
   <dependency>
     <groupId>fr.unice.polytech.isa</groupId>
-    <artifactId>ordering</artifactId>
+    <artifactId>catalogueCustomer</artifactId>
     <version>1.0-SNAPSHOT</version>
   </dependency>
+  <dependency>
+    <groupId>fr.unice.polytech.isa</groupId>
+    <artifactId>cartCashier</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </dependency>
+
   <dependency>
     <groupId>org.apache.openejb</groupId>
     <artifactId>javaee-api</artifactId>
@@ -77,4 +83,11 @@
   </dependency>
 
 </dependencies>
+<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>erebe-vm19-snapshots</name>
+        <url>http://erebe-vm19.i3s.unice.fr/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
