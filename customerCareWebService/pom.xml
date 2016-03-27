@@ -19,7 +19,7 @@
   </build>
   <packaging>jar</packaging>
 
-  <name>customerCareWebService</name>
+  <name>ISA :: The Cookie Factory :: customerCareWebService</name>
   <url>http://maven.apache.org</url>
 
   <properties>
