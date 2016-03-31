@@ -25,6 +25,8 @@
         <module name="tcf-client" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tcf-client" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-

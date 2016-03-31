@@ -1,7 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="815686eb-437e-42ad-8a93-83eea4e0b15f" name="Default" comment="" />
+    <list default="true" id="815686eb-437e-42ad-8a93-83eea4e0b15f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../cartCashier/.idea/libraries/Maven__fr_unice_polytech_isa_ordering_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__fr_unice_polytech_isa_ordering_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../client/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_google_guava_guava_10_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_2_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_3_18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__commons_pool_commons_pool_1_5_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_cartCashier_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_cartWebService_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_catalogueCustomer_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_cooking_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_customerCareWebService_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_objects_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_ordering_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_tcf_client_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__fr_unice_polytech_isa_webService_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__net_sourceforge_serp_serp_1_15_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_jdbc_store_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_kahadb_store_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_activemq_ra_5_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_activemq_protobuf_activemq_protobuf_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_bval_bval_core_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_bval_bval_jsr303_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_api_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_core_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_management_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_extension_providers_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_extension_search_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_cors_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_oauth2_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_security_2_6_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_geronimo_components_geronimo_connector_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_geronimo_components_geronimo_transaction_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_geronimo_javamail_geronimo_javamail_1_4_mail_1_9_0_alpha_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_connector_1_6_spec_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_deployment_1_1_spec_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_model_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_settings_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_myfaces_core_myfaces_api_2_1_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_myfaces_core_myfaces_impl_2_1_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_arquillian_common_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_arquillian_openejb_transaction_provider_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_arquillian_tomee_common_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_arquillian_tomee_embedded_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_javaee_api_6_0_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_javaee_api_tomcat_6_0_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_mbean_annotation_api_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_api_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_client_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_core_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_cxf_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_cxf_rs_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_cxf_transport_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_ejbd_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_http_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_javaagent_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_jee_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_jee_accessors_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_jpa_integration_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_loader_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_rest_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_server_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_openejb_webservices_4_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_shade_quartz_openejb_shade_2_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_catalina_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_common_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_embedded_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_jdbc_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_juli_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_loader_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_myfaces_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openejb_tomee_util_1_7_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openjpa_openjpa_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ee_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ee_common_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ejb_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_el22_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_impl_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_jsf_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_spi_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_web_1_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_5_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_ha_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_coyote_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_dbcp_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_el_api_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_el_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_jsp_api_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_tribes_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_7_0_63.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_ws_security_wss4j_1_6_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_xbean_xbean_bundleutils_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_xbean_xbean_finder_shaded_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_xbean_xbean_naming_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_swizzle_swizzle_stream_1_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_easytesting_fest_assert_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_easytesting_fest_util_1_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_aether_aether_api_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_aether_aether_connector_wagon_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_aether_aether_impl_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_aether_aether_spi_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_aether_aether_util_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_3_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_0_0_M5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_0_0_M5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_fusesource_jansi_jansi_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_hsqldb_hsqldb_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_api_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_impl_base_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_spi_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_container_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_core_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0_alpha_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_javaee_2_0_0_alpha_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_base_2_0_0_alpha_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_javaee_2_0_0_alpha_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0_alpha_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_archive_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_archive_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_archive_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_json_json_20160212.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jsoup_jsoup_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_metatype_sxc_sxc_jaxb_core_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_metatype_sxc_sxc_runtime_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_objectweb_howl_howl_1_0_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_opensaml_opensaml_2_5_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_opensaml_openws_1_4_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_opensaml_xmltooling_1_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_no_aop_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../warGeneration/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/.idea/libraries/Maven__fr_unice_polytech_isa_cooking_1_0_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/../cartCashier/.idea/libraries/Maven__fr_unice_polytech_isa_cooking_1_0_SNAPSHOT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/.idea/libraries/Maven__fr_unice_polytech_isa_objects_1_0_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/../cartCashier/.idea/libraries/Maven__fr_unice_polytech_isa_objects_1_0_SNAPSHOT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartCashier/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/cartCaisher.iml" afterPath="$PROJECT_DIR$/../cartCashier/cartCaisher.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../cartCashier/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../cartWebService/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__fr_unice_polytech_isa_cooking_1_0_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_unice_polytech_isa_cooking_1_0_SNAPSHOT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__fr_unice_polytech_isa_objects_1_0_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_unice_polytech_isa_objects_1_0_SNAPSHOT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../client/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../client/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../client/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../client/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../client/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../client/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../client/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../client/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../client/tcf-client.iml" afterPath="$PROJECT_DIR$/../client/tcf-client.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/tcf-backend.iml" afterPath="$PROJECT_DIR$/../cooking/tcf-backend.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../customerCareWebService/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/artifacts/warGeneration_war_exploded.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/artifacts/warGeneration_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/misc.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/modules.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/workspace.xml" />
+    </list>
     <ignored path="CatalgueCostomer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,11 +288,11 @@
     <favorites_list name="CatalgueCostomer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2116317">
+            <state vertical-scroll-proportion="0.9891641">
               <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
               <folding />
             </state>
@@ -38,9 +304,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,7 +314,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +326,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +338,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#257#258#0" expanded="false" />
+                <element signature="e#286#287#0" expanded="false" />
+                <element signature="e#375#376#0" expanded="false" />
+                <element signature="e#404#405#0" expanded="false" />
+                <element signature="e#463#464#0" expanded="false" />
+                <element signature="e#508#509#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,7 +356,8 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#383#384#0" expanded="false" />
+                <element signature="e#441#442#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -92,7 +368,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,8 +441,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,7 +456,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalgueCostomer" />
+              <option name="myItemId" value="catalogueCustomer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,29 +466,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalgueCostomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CatalgueCostomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalgueCostomer" />
+              <option name="myItemId" value="catalogueCustomer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -238,7 +492,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalgueCostomer" />
+              <option name="myItemId" value="catalogueCustomer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -262,43 +516,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CatalgueCostomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalgueCostomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tcf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cartWebService" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
   </component>
@@ -720,6 +946,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -743,41 +974,42 @@
       <option name="number" value="Default" />
       <updated>1458572077418</updated>
       <workItem from="1458572080687" duration="1351000" />
+      <workItem from="1459344659021" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1351000" />
+    <option name="totallyTimeSpent" value="1592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -788,11 +1020,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/components/CustomerRegistryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -800,7 +1050,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -808,15 +1060,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -825,7 +1076,74 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/exceptions/AlreadyExistingCustomerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/unice/polytech/isa/tcf/components/CatalogueBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#383#384#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -834,15 +1152,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2116317">
+        <state vertical-scroll-proportion="0.9891641">
           <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
           <folding />
         </state>

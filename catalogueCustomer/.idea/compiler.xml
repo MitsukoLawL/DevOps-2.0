@@ -31,10 +31,18 @@
         <processorPath useClasspath="true" />
         <module name="catalgueCostomer" />
       </profile>
+      <profile default="false" name="Annotation profile for catalogueCustomer" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="catalogueCustomer" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="catalgueCostomer" target="1.8" />
       <module name="CatalgueCostomer" target="1.8" />
+      <module name="catalogueCustomer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

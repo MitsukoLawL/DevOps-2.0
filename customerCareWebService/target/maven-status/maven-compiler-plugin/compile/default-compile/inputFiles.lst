@@ -1,17 +1,17 @@
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/Tracker.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Order.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CartModifier.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/ItemVerifier.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/webservice/CustomerCareServiceImpl.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Customer.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/OrderStatus.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Item.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownCustomerException.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Cookies.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/webservice/CustomerCareService.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/utils/Database.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/Logger.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CatalogueExploration.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CustomerFinder.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/Tracker.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/OrderStatus.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Customer.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/utils/Database.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CustomerRegistration.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Order.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/exceptions/UnknownCustomerException.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/webservice/CustomerCareServiceImpl.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/CartModifier.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/webservice/CustomerCareService.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Item.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/ItemVerifier.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/entities/Cookies.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java
+/Users/islamefelipefernandes/Documents/Material_Academico_Intercambio/Segundo Semestre/DevOps/Projet2/DevOps-2.0/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/interceptors/Logger.java
