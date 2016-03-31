@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="fr.unice.polytech.isa.tcf.CustomerRegistryTest" time="0.086" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="fr.unice.polytech.isa.tcf.CustomerRegistryTest" time="0.078" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/amd64"/>
     <property name="java.vm.version" value="25.74-b02"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/mitsuko/Documents/DevOps/SoftwareFactory/truc/DevOps-2.0"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/mitsuko/Documents/DevOps/SoftwareFactory/truc/DevOps-2.0"/>
+    <property name="user.dir" value="/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0"/>
     <property name="java.runtime.version" value="1.8.0_74-b02"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/endorsed"/>
@@ -60,7 +60,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="cannotRegisterTwice" time="0.071"/>
-  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="registerCustomer" time="0.008"/>
-  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="unknownCustomer" time="0.007"/>
+  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="cannotRegisterTwice" time="0.066"/>
+  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="registerCustomer" time="0.007"/>
+  <testcase classname="fr.unice.polytech.isa.tcf.CustomerRegistryTest" name="unknownCustomer" time="0.005"/>
 </testsuite>
