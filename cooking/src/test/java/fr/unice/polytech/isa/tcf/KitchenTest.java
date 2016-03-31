@@ -43,9 +43,10 @@ public class KitchenTest extends AbstractTCFTest {
 		Customer ron = new Customer("ron", "1234-567890");
 		Order ready = new Order(ron, items);
 		processor.process(ready);
-		//assertEquals(OrderStatus.READY, tracker.status(ready.getId()));
-		assertNotEquals(OrderStatus.READY, tracker.status(ready.getId()));
-	
+		assertEquals(OrderStatus.READY, tracker.status(ready.getId()));
+		// Pour faire planter :
+		// assertNotEquals(OrderStatus.READY, tracker.status(ready.getId()));
+
 	}
 
 

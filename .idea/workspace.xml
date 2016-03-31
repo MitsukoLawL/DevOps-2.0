@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eaf302d-d7da-4146-8583-4d1c707bd66f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/customerCareWebService/src/main/java/fr/unice/polytech/isa/tcf/Tracker.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cartCashier/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cartCashier/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cartWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cartWebService/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalogueCustomer/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/catalogueCustomer/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customerCareWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/customerCareWebService/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customerCareWebService/target/surefire-reports/TEST-fr.unice.polytech.isa.tcf.CustomerRegistryTest.xml" afterPath="$PROJECT_DIR$/customerCareWebService/target/surefire-reports/TEST-fr.unice.polytech.isa.tcf.CustomerRegistryTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customerCareWebService/target/surefire-reports/fr.unice.polytech.isa.tcf.CustomerRegistryTest.txt" afterPath="$PROJECT_DIR$/customerCareWebService/target/surefire-reports/fr.unice.polytech.isa.tcf.CustomerRegistryTest.txt" />
-    </list>
+    <list default="true" id="1eaf302d-d7da-4146-8583-4d1c707bd66f" name="Default" comment="" />
     <ignored path="DevOps-2.0.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -1255,6 +1243,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1eaf302d-d7da-4146-8583-4d1c707bd66f" name="Default" comment="" />
@@ -1262,16 +1253,16 @@
       <option name="number" value="Default" />
       <updated>1458228399482</updated>
       <workItem from="1458228401163" duration="395000" />
-      <workItem from="1459454254565" duration="486000" />
+      <workItem from="1459454254565" duration="1074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="881000" />
+    <option name="totallyTimeSpent" value="1469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1296,6 +1287,14 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
