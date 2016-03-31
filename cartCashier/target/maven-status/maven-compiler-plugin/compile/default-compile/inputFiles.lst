@@ -2,7 +2,6 @@
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/components/carts/CartStatelessBean.java
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/components/CashierBean.java
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/components/carts/CartStatefulBean.java
-/home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/interceptors/CartCounter.java
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/Payment.java
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/CartModifier.java
 /home/mitsuko/Documents/DevOps/SoftwareFactory/DevOps-2.0/cartCashier/src/main/java/fr/unice/polytech/isa/tcf/components/CartBean.java

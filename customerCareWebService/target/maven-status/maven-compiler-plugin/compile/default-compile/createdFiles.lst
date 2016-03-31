@@ -1,9 +1,6 @@
 fr/unice/polytech/isa/tcf/CustomerFinder.class
 fr/unice/polytech/isa/tcf/Tracker.class
 fr/unice/polytech/isa/tcf/webservice/CustomerCareService.class
-fr/unice/polytech/isa/tcf/interceptors/Logger.class
-fr/unice/polytech/isa/tcf/interceptors/CartCounter.class
-fr/unice/polytech/isa/tcf/interceptors/ItemVerifier.class
 fr/unice/polytech/isa/tcf/CatalogueExploration.class
 fr/unice/polytech/isa/tcf/CustomerRegistration.class
 fr/unice/polytech/isa/tcf/webservice/CustomerCareServiceImpl.class
