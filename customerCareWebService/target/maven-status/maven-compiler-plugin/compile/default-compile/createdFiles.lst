@@ -1,7 +1,4 @@
-fr/unice/polytech/isa/tcf/CustomerFinder.class
 fr/unice/polytech/isa/tcf/Tracker.class
 fr/unice/polytech/isa/tcf/webservice/CustomerCareService.class
-fr/unice/polytech/isa/tcf/CatalogueExploration.class
-fr/unice/polytech/isa/tcf/CustomerRegistration.class
 fr/unice/polytech/isa/tcf/webservice/CustomerCareServiceImpl.class
 fr/unice/polytech/isa/tcf/CartModifier.class
