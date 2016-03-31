@@ -1,5 +1,2 @@
-fr/unice/polytech/isa/tcf/entities/Cookies.class
-fr/unice/polytech/isa/tcf/entities/Customer.class
-fr/unice/polytech/isa/tcf/entities/Item.class
-fr/unice/polytech/isa/tcf/webservice/CartWebServiceImpl.class
 fr/unice/polytech/isa/tcf/webservice/CartWebService.class
+fr/unice/polytech/isa/tcf/webservice/CartWebServiceImpl.class
