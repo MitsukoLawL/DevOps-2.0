@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8aba47-ec2f-49d3-abf0-8c7da6829399" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/WebServicesIntegrationTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" />
     </list>
     <ignored path="webService.iws" />

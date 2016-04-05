@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815686eb-437e-42ad-8a93-83eea4e0b15f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/WebServicesIntegrationTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" />
     </list>
     <ignored path="CatalgueCostomer.iws" />
