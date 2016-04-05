@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d004bc-2d0e-4b32-bff2-38a2638467cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/CartIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../catalogueCustomer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../catalogueCustomer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../objects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../objects/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../warGeneration/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/CartIntegrationTest.java" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/CartIntegrationTest.java" />
     </list>
     <ignored path="CartCaisher.iws" />
     <ignored path=".idea/workspace.xml" />

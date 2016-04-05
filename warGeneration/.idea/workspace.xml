@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4f7a522-24a5-4336-98b7-2d6e64613316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/integration/CartIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartCashier/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cartWebService/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../catalogueCustomer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../catalogueCustomer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cooking/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../customerCareWebService/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../objects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../objects/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/integration/CartIntegrationTest.java" afterPath="$PROJECT_DIR$/src/test/java/integration/CartIntegrationTest.java" />
     </list>
     <ignored path="warGeneration.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/integration/PaymentIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -108,8 +101,10 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/integration/CartIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.4473684">
-              <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
-              <folding />
+              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -755,12 +750,12 @@
       <workItem from="1459422794502" duration="604000" />
       <workItem from="1459452957662" duration="582000" />
       <workItem from="1459768445676" duration="64000" />
-      <workItem from="1459842900544" duration="2431000" />
+      <workItem from="1459842900544" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20701000" />
+    <option name="totallyTimeSpent" value="20842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="690" extended-state="6" />
@@ -931,7 +926,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/integration/PaymentIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -939,8 +934,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/integration/CartIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4473684">
-          <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
-          <folding />
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
