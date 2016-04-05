@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d004bc-2d0e-4b32-bff2-38a2638467cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/CartIntegrationTest.java" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/CartIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/integration/WebServicesIntegrationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" afterPath="$PROJECT_DIR$/../warGeneration/src/test/java/arquillian/AbstractTCFTest.java" />
     </list>
     <ignored path="CartCaisher.iws" />
     <ignored path=".idea/workspace.xml" />

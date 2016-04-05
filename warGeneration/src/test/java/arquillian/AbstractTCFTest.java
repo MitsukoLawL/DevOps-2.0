@@ -31,6 +31,8 @@ public abstract class AbstractTCFTest {
 				.addPackage(Customer.class.getPackage())
 				// Components Interfaces
 				.addPackage(CartModifier.class.getPackage())
+				.addPackage(CartWebService.class.getPackage())
+				.addPackage(CustomerCareService.class.getPackage())
 				// Cart components
 				.addPackage(CartStatefulBean.class.getPackage())
 				// Interceptors
