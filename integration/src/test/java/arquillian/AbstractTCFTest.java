@@ -7,14 +7,16 @@ import fr.unice.polytech.isa.tcf.entities.Customer;
 import fr.unice.polytech.isa.tcf.exceptions.AlreadyExistingCustomerException;
 import fr.unice.polytech.isa.tcf.interceptors.Logger;
 import fr.unice.polytech.isa.tcf.utils.Database;
-import fr.unice.polytech.isa.tcf.webservice.CartWebService;
 import fr.unice.polytech.isa.tcf.webservice.CustomerCareService;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.asset.EmptyAsset;
 import org.jboss.shrinkwrap.api.spec.WebArchive;
+import fr.unice.polytech.isa.tcf.webservice.CartWebService;
+
 
 import javax.ejb.EJB;
+
 
 public abstract class AbstractTCFTest {
 

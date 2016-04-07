@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>fr.unice.polytech.isa</groupId>
+    <artifactId>integration</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <versions.tomee.embedded>1.7.3</versions.tomee.embedded>
+    </properties>
+
+    <profiles>
+        <profile>
+            <!-- Use 'mvn -P stable' to activate stable dependencies (by default) -->
+            <id>stable</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <versions.tomee>1.7.3</versions.tomee>
+            </properties>
+        </profile>
+    </profiles>
+
+    <dependencies>
+
+        <!-- cooking dependence -->
+        <dependency>
+            <groupId>fr.unice.polytech.isa</groupId>
+            <artifactId>cooking</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!-- objects dependence -->
+        <dependency>
+            <groupId>fr.unice.polytech.isa</groupId>
+            <artifactId>objects</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <!--<artifactId>webService</artifactId>-->
+        <dependency>
+            <groupId>fr.unice.polytech.isa</groupId>
+            <artifactId>cartWebService</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>fr.unice.polytech.isa</groupId>
+            <artifactId>customerCareWebService</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>fr.unice.polytech.isa</groupId>
+            <artifactId>cartCashier</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.openejb</groupId>
+            <artifactId>tomee-embedded</artifactId>
+            <version>${versions.tomee}</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- Application server: Tomee -->
+        <dependency>
+            <groupId>org.apache.openejb</groupId>
+            <artifactId>arquillian-tomee-embedded</artifactId>
+            <version>${versions.tomee.embedded}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>erebe-vm19-snapshots</name>
+            <url>http://erebe-vm19.i3s.unice.fr/artifactory/libs-snapshot-local</url>
+        </snapshotRepository>
+    </distributionManagement>
+    <build>
+        <finalName>tcf-backend</finalName>
+        <defaultGoal>package</defaultGoal>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.17</version>
+                <configuration>
+                    <!-- otherwise openejb embedded and tomee embedded shares the same context and EJBContainer is broken -->
+                    <reuseForks>false</reuseForks>
+                    <excludes>
+                        <exclude>**/*IntegrationTest.java</exclude>
+                    </excludes>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>integration-test</id>
+                        <goals>
+                            <goal>test</goal>
+                        </goals>
+                        <phase>integration-test</phase>
+                        <configuration>
+                            <excludes>
+                                <exclude>none</exclude>
+                            </excludes>
+                            <includes>
+                                <include>**/*IntegrationTest.java</include>
+                            </includes>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.openejb.maven</groupId>
+                <artifactId>tomee-maven-plugin</artifactId>
+                <version>${versions.tomee.embedded}</version>
+                <configuration>
+                    <!-- From TomEE to TomEE+ to support the web services stack -->
+                    <tomeeClassifier>plus</tomeeClassifier>
+                    <args>-Xmx512m -XX:PermSize=256m</args>
+                    <deployOpenEjbApplication>true</deployOpenEjbApplication>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
