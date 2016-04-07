@@ -1,13 +1,13 @@
 package integration;
 
 import arquillian.AbstractTCFTest;
-import fr.unice.polytech.isa.tcf.CartModifier;
 import fr.unice.polytech.isa.tcf.CustomerFinder;
-import fr.unice.polytech.isa.tcf.CustomerRegistration;
 import fr.unice.polytech.isa.tcf.entities.Cookies;
 import fr.unice.polytech.isa.tcf.entities.Customer;
 import fr.unice.polytech.isa.tcf.entities.Item;
 import fr.unice.polytech.isa.tcf.entities.Order;
+import fr.unice.polytech.isa.tcf.webservice.CartWebService;
+import fr.unice.polytech.isa.tcf.webservice.CustomerCareService;
 import org.jboss.arquillian.junit.Arquillian;
 import org.junit.Before;
 import org.junit.Test;
@@ -18,7 +18,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -26,12 +25,10 @@ import static org.junit.Assert.assertTrue;
  */
 @RunWith(Arquillian.class)
 public class WebServicesIntegrationTest extends AbstractTCFTest {
-    @EJB(name= "cart-stateless") private CartModifier cart;
-    @EJB
-    private CustomerFinder finder;
-    @EJB
-    private CustomerRegistration registration;
 
+    @EJB(name= "CartWS") private CartWebService cartWebService;
+    @EJB(name= "CustomerCareWS") private CustomerCareService customerService;
+    @EJB private CustomerFinder finder;
     private Item item1, item2;
 
     @Before
@@ -42,22 +39,19 @@ public class WebServicesIntegrationTest extends AbstractTCFTest {
     }
 
     @Test
-    public void integrationBetweenCartPaymentAndOrders() throws Exception {
-        registration.register("john", "1234-896983");
-        Customer retrieved = finder.findByName("john").get();
-        assertNotNull(retrieved);
-        assertEquals("john",retrieved.getName());
-        assertTrue(retrieved.getOrders().isEmpty());
-        boolean b1 = cart.add(retrieved,item1);
-        boolean b2 = cart.add(retrieved,item2);
-        assertTrue(b1);
-        assertTrue(b2);
+    public void integrationBetweenTheServicesAndOrders() throws Exception {
+        customerService.register("john", "1234-896983");
+        cartWebService.addItemToCustomerCart("john",item1);
+        cartWebService.addItemToCustomerCart("john",item2);
+
         Item[] oracle = new Item[] {new Item(Cookies.CHOCOLALALA, 3),new Item(Cookies.DARK_TEMPTATION, 2)};
-        assertEquals(new HashSet<>(Arrays.asList(oracle)), cart.contents(retrieved));
-        String id = cart.validate(retrieved);
+        assertEquals(new HashSet<>(Arrays.asList(oracle)), cartWebService.getCustomerCartContents("john"));
+        String id = cartWebService.validate("john");
 
         //String id = cashier.payOrder(retrieved, items);
         Order order = memory.getOrders().get(id);
+        Customer retrieved = finder.findByName("john").get();
         assertTrue(retrieved.getOrders().contains(order));
     }
 }
+
