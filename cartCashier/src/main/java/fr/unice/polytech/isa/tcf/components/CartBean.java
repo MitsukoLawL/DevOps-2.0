@@ -21,6 +21,7 @@ public abstract class CartBean implements CartModifier {
 	@Override
 	@Interceptors({CartCounter.class})
 	public String validate(Customer c) throws PaymentException {
+		System.out.println("coucou");
 		return cashier.payOrder(c, contents(c));
 	}
 
