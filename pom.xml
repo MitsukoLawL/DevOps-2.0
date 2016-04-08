@@ -20,7 +20,6 @@
         <module>customerCareWebService</module>
         <module>cartWebService</module>
         <module>client</module>
-        <module>integration</module>
         <module>warGeneration</module>
   </modules>
 
