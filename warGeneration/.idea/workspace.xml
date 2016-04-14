@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4f7a522-24a5-4336-98b7-2d6e64613316" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../catalogueCustomer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../catalogueCustomer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartCashier/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../cartCashier/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cartWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../cartWebService/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../catalogueCustomer/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../catalogueCustomer/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../customerCareWebService/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/surefire-reports/TEST-fr.unice.polytech.isa.tcf.CustomerRegistryTest.xml" afterPath="$PROJECT_DIR$/../customerCareWebService/target/surefire-reports/TEST-fr.unice.polytech.isa.tcf.CustomerRegistryTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../customerCareWebService/target/surefire-reports/fr.unice.polytech.isa.tcf.CustomerRegistryTest.txt" afterPath="$PROJECT_DIR$/../customerCareWebService/target/surefire-reports/fr.unice.polytech.isa.tcf.CustomerRegistryTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pom.xml" afterPath="$PROJECT_DIR$/../pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="d4f7a522-24a5-4336-98b7-2d6e64613316" name="Default" comment="" />
     <ignored path="warGeneration.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -672,16 +653,16 @@
       <workItem from="1459768445676" duration="64000" />
       <workItem from="1459842900544" duration="4359000" />
       <workItem from="1460048379168" duration="926000" />
-      <workItem from="1460096657285" duration="30000" />
+      <workItem from="1460096657285" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23585000" />
+    <option name="totallyTimeSpent" value="23759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
